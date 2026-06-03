@@ -32,6 +32,8 @@ To bridge the gap between complex machine learning code and everyday business us
 * **User Input Forms:** Created clean, intuitive fields where an agent or manager can input a customer's specific profile metrics (e.g., monthly charges, contract type, internet type).
 * **Real-Time Prediction Engine:** When submitted, the interface reads the data, passes it through the backend `.pkl` files, and prints an instantaneous risk percentage score.
 * **Retention Strategy:** Empowers customer service teams to proactively identify at-risk clients and offer targeted retention incentives before the customer decides to close their account.
+
+👉 *Experience the live interface here:* [Telco Churn Prediction Web App](https://telco-customer-churn-prediction-user.streamlit.app/)
   
 ---
 
