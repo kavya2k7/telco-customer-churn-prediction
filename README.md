@@ -39,10 +39,18 @@ To bridge the gap between complex machine learning code and everyday business us
 
 ## 📂 Repository Structure
 ```text
-├── sql_queries/          # SQL scripts for data cleaning & auditing
-├── models/               # Saved serialised models (churn_model.pkl, model_features.pkl)
-├── notebooks/            # Jupyter notebooks for EDA and Model Training
-├── dashboard/            # Power BI dashboard files (.pbix)
-├── app.py                # Streamlit web application
-├── requirements.txt      # List of required Python libraries
-└── README.md             # Project documentation
+Repository Structure
+
+├── README.md                         # Project documentation
+├── SQLQuery1.sql                     # SQL queries for data cleaning & analysis
+├── app.py                            # Streamlit web application
+├── churn_model.pkl                   # Trained Random Forest model
+├── churn_prediction_model.ipynb      # EDA and model training notebook
+├── model_features.pkl                # Model feature mapping
+├── powerbi page1.png                 # Power BI dashboard screenshot 1
+├── powerbi page2.png                 # Power BI dashboard screenshot 2
+├── sql query output.csv              # SQL query output results
+├── telco_churn_dashboard.pbix        # Power BI dashboard file
+├── telco_customer_churn_dataset.csv  # Dataset
+└── requirements.txt                  # Required Python libraries
+
