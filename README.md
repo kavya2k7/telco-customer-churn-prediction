@@ -27,6 +27,13 @@ While machine learning handles future predictions, businesses need a high-level 
 * **Interactive Filtering:** Built dynamic charts allowing stakeholders to break down churn statistics by contract types, payment methods, and technical support status.
 * **Actionable Insights:** Provided a clear visual map demonstrating that customers on short-term monthly contracts without tech support represent the highest financial risk.
 
+  ## 📊 Dashboard Preview
+### Dashboard Page 1
+<img width="924" height="526" alt="powerbi page1" src="https://github.com/user-attachments/assets/b37c2747-6733-4b8a-9ae8-e99855fb5bec" />
+
+### Dashboard Page 2
+<img width="895" height="545" alt="powerbi page2" src="https://github.com/user-attachments/assets/39856b77-0732-4fb8-b477-480b201497fc" />
+
 ### Module 4: Production User Interface (Streamlit)
 To bridge the gap between complex machine learning code and everyday business users, we deployed an interactive web application.
 * **User Input Forms:** Created clean, intuitive fields where an agent or manager can input a customer's specific profile metrics (e.g., monthly charges, contract type, internet type).
@@ -39,8 +46,6 @@ To bridge the gap between complex machine learning code and everyday business us
 
 ## 📂 Repository Structure
 ```text
-Repository Structure
-
 ├── README.md                         # Project documentation
 ├── SQLQuery1.sql                     # SQL queries for data cleaning & analysis
 ├── app.py                            # Streamlit web application
